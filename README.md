@@ -4,6 +4,8 @@
 
 The colorprompt module. Colors your bash prompt.
 
+Forked into vrtdev from unmaintained https://github.com/sgnl05/sgnl05-colorprompt
+
 ##Module Description
 The colorprompt module creates /etc/profile.d/colorprompt.sh, which sets a colored prompt. Different colors can be set for (all and specific) users, server name and environment tag.
 

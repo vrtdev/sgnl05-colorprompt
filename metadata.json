@@ -1,12 +1,11 @@
 {
   "name": "sgnl05-colorprompt",
-  "version": "2.1.2",
+  "version": "3.0.0",
   "author": "sgnl05",
-  "summary": "Add colors to your bash prompt",
+  "summary": "Add colors to your bash prompt. Forked from unmaintained https://github.com/sgnl05/sgnl05-colorprompt",
   "license": "Apache-2.0",
-  "source": "git://github.com/sgnl05/sgnl05-colorprompt.git",
-  "project_page": "https://github.com/sgnl05/sgnl05-colorprompt",
-  "issues_url": "https://github.com/sgnl05/sgnl05-colorprompt/issues",
+  "source": "https://github.com/vrtdev/sgnl05-colorprompt.git",
+  "project_page": "https://github.com/vrtdev/sgnl05-colorprompt.git",
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat"
