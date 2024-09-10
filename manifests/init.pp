@@ -115,5 +115,4 @@ class colorprompt (
       subscribe   => File['colorprompt.sh'],
     }
   }
-
 }
